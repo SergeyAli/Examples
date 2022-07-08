@@ -1,0 +1,15 @@
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\bin\Debug\net6.0\Examples001_HellConcole.exe
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\bin\Debug\net6.0\Examples001_HellConcole.deps.json
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\bin\Debug\net6.0\Examples001_HellConcole.runtimeconfig.json
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\bin\Debug\net6.0\Examples001_HellConcole.dll
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\bin\Debug\net6.0\Examples001_HellConcole.pdb
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\Examples001_HellConcole.csproj.AssemblyReference.cache
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\Examples001_HellConcole.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\Examples001_HellConcole.AssemblyInfoInputs.cache
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\Examples001_HellConcole.AssemblyInfo.cs
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\Examples001_HellConcole.csproj.CoreCompileInputs.cache
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\Examples001_HellConcole.dll
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\refint\Examples001_HellConcole.dll
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\Examples001_HellConcole.pdb
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\Examples001_HellConcole.genruntimeconfig.cache
+E:\GeekBrains\04\Examples_1\Examples001_HellConcole\obj\Debug\net6.0\ref\Examples001_HellConcole.dll
