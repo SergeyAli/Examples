@@ -99,7 +99,7 @@ string text = " - Я думаю, - сказал князь, улыбаясь, - 
 // string s = "qwerty"
 //             012345         
 //s[3] // r
-
+/*
 string Replace(string text, char oldValue, char newValue)
 {
     string result = String.Empty; // иницилизация пустой строки
@@ -123,4 +123,47 @@ Console.WriteLine(newText);
 Console.WriteLine();
 newText = Replace(newText, 'С', 'с');
 Console.WriteLine(newText);
+*/
+
+// Алгоритм сортировки массива
+
+int [] arr ={1, 5, 4, 3, 2, 6, 7, 1, 1};
+
+void PrintArray(int[] array)  // Составим метод вывода на печать , дадим методу название PrintArray
+{
+    int count = array.Length;
+    
+    for (int i = 0; i < count; i++)
+    {
+        Console.Write($"{array[i]} ");   
+    }
+    Console.WriteLine();
+
+}
+
+
+ void SelectionSort(int[] array)  // Метод который упорядочить массив
+{
+    for (int i = 0; i < array.Length - 1; i++) // т.к. j= i+1, то отнимаем 1 у array.Length что бы получилось обшее количество элементов
+    {
+        int minPosition = i;
+        for (int j = i + 1; j <array.Length; j++) // блок поиска минимального
+        {
+            if(array[j] < array[minPosition]) minPosition = j;
+        }
+
+
+        int temporary = array[i];
+        array[i] = array[minPosition];
+        array[minPosition] = temporary;
+    }
+
+
+}
+
+
+
+PrintArray(arr);
+SelectionSort(arr); // вызываем упорядочение массива    
+PrintArray(arr);
 
