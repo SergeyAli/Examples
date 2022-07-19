@@ -149,7 +149,7 @@ void PrintArray(int[] array)  // Составим метод вывода на �
         int minPosition = i;
         for (int j = i + 1; j <array.Length; j++) // блок поиска минимального
         {
-            if(array[j] < array[minPosition]) minPosition = j;
+            if(array[j] < array[minPosition]) minPosition = j; // если поменять знак меньше на больше - массив упорядочиться от большего к меньшему
         }
 
 
